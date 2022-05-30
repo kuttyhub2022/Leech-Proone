@@ -5,7 +5,7 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/MaxxRider/Leech-Pro",
+  "repository": "https://github.com/aakash2021-cap/Leech-Pro",
   "success_url": "https://t.me/MaxxBotChat",
   "website": "https://github.com/MaxxRider/Leech-Pro",
   "env": {
@@ -31,6 +31,10 @@
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
+      "value": ""
+    },
+    "AUTH_USER": {
+      "description": "should be an integer.",
       "value": ""
     },
     "UPLOAD_AS_DOC": {
